@@ -1,0 +1,5 @@
+--- DETAILED SECURITY VULNERABILITY REPORT ---
+Target Device: 192.168.1.2
+Audit Conducted by: Chibuzor Nnoli
+
+Port: 80/tcp | State: open | Service: http | Version: 2.4.58 [!] ALERT: Outdated Service - High Risk for Care Home
