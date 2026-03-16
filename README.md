@@ -13,7 +13,7 @@ The development follows the DSRM framework, transitioning from problem identific
 •	Frontend: Flask-based web dashboard for non-technical stakeholders.
 
 Network Arrangement (Reproducibility)
-The system was evaluated in a Virtualised Sandbox using a private Host-Only Adapter network to ensure ethical isolation.
+The system was evaluated in a Virtualised Sandbox using internal network  to ensure ethical isolation.
   Manual Configuration of enp0s3 Interface
 To replicate the environment, the following Modern Linux IP Toolset commands were utilized to establish the Layer-3 handshake:
 1. Interface Activation
